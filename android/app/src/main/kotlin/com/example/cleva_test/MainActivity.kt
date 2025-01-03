@@ -1,4 +1,4 @@
-package com.example.cleva__test
+package com.example.cleva_test
 
 import io.flutter.embedding.android.FlutterActivity
 

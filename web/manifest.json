@@ -1,6 +1,6 @@
 {
-    "name": "cleva__test",
-    "short_name": "cleva__test",
+    "name": "cleva_test",
+    "short_name": "cleva_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
